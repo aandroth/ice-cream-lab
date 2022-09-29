@@ -1,0 +1,10 @@
+.Header {
+    width: 100%;
+    border-bottom: 2px solid lightblue;
+    justify-content: center;
+}
+
+.Header h1 {
+    display: flex;
+    justify-content: center;
+}

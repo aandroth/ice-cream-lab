@@ -1,0 +1,28 @@
+.AdDesigner {
+    align-items: left;
+}
+
+.VoteFor_Box {
+    width: 10%;
+    border: 2px solid;
+    border-color: black;
+}
+
+.VoteFor_Box p{
+    text-align: center;
+}
+
+.FontAdjuster {
+    display: flex;
+    justify-content: left;
+}
+
+.WhatToSupport button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.FontAdjuster button, p {
+    margin-left: 5px;
+    margin-right: 5px;
+}
